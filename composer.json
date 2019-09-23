@@ -1,0 +1,8 @@
+{
+    "name": "zhangzhaowy/test_metapackage",
+    "description": "a test metapackage",
+    "type": "metapackage",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {}
+}
